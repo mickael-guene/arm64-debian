@@ -1,5 +1,5 @@
 FROM scratch
-MAINTAINER  <>
+MAINTAINER Mickael Guene <mickael.guene@st.com>
 
 ADD arm64-debian-jessie.tgz /
 ADD configure.sh /configure.sh
